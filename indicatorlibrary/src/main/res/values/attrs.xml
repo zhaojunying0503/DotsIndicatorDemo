@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--引导页；；；-->
+    <declare-styleable name="GuideInstructionBar">
+       <!--控件的数量-->
+        <attr name="pointNumber" format="integer"/>
+        <!--控件的大小-->
+        <attr name="pointSize" format="integer"/>
+        <!--控件选中的颜色-->
+        <attr name="pointChoseColor" format="color"/>
+        <!--控件正常时的颜色-->
+        <attr name="piontNormalColor" format="color"/>
+        <!--控件的内边距-->
+        <attr name="viewPadding" format="integer"/>
+    </declare-styleable>
+</resources>
