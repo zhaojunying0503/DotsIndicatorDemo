@@ -34,6 +34,13 @@ public class MainActivity extends AppCompatActivity implements ViewPager.OnPageC
     @Override
     public void onPageSelected(int position) {
 
+
+
+
+
+
+
+
     }
 
     @Override
